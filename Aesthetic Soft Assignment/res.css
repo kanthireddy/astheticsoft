@@ -1,0 +1,96 @@
+@media(max-width:768px){
+
+    .logo{
+        width: 100%;
+    }
+    .head p{
+        display: none;
+    }
+    .navbar{
+        display: none;
+    }
+    .bg{
+        padding: 0px;
+    }
+    .bg div{
+        width: 100%;
+        font-size: 15px;
+    }
+    .about{
+        width: 100%;
+        flex-direction: column;
+        justify-content: center;
+    }
+    .about div{
+        width: 100%;
+    }
+    .special{
+        width: 100%;
+        justify-content: center;
+        padding: 0px;
+        font-size: 15px;
+    }
+    .hexa{
+        width: 100%;
+        flex-direction: column;
+    }
+    .hexa1{
+        width: 100%;
+        padding-left:50px ;
+    }
+    .hexa2{
+        width: 80%;
+        padding-left: 50px;
+    }
+    .hexa h1{
+        font-size: 15px;
+
+    }
+    .services{
+        width: 100%;
+    }
+    .it{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+    .it div{
+        width: 100%;
+    }
+    .content{
+        flex-direction: column;
+    }
+    .picture,.info{
+        width: 100%;
+        padding: 60px;
+    }
+    .items div h1{
+        font-size: 20px;
+    
+    }
+    .companies{
+        flex-direction: column;
+        justify-content: center;
+    }
+    .companies div{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        padding: 20px 20px;
+        border: 1px solid rgb(54, 52, 52);
+        margin: 5px;
+    }
+    .foot{
+        flex-direction: column;
+        height: 500px;
+    }
+    .foot div{
+        width: 100%;
+
+        }
+        .f{
+            margin-top: 300px;
+            padding-top: 70px;
+        }
+
+}

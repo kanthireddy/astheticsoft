@@ -1,0 +1,265 @@
+*{
+    margin: 0%;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+header{
+    width: 100%;
+    height: 15vh;
+}
+.head p{
+    background-color: rgb(8, 8, 90);
+    color: white;
+    text-align: right;
+    padding: 5px 150px;
+}
+span{
+    padding-left: 50px;
+}
+.menu{
+    width: 100%;
+
+}
+.logo{
+    width: 30%;
+    float: left;
+    text-align: center;
+    padding: 5px;
+}
+.navbar{
+    width: 70%;
+    padding: 20px;
+}
+.logo img{
+    width:30%;
+    
+}
+li{
+    float: left;
+    padding: 15px;
+    font-weight: 700;
+    list-style-type: none;
+}
+.bg{
+    width: 100%;
+    height: 85vh;
+    background-image: url(assets/slide1-home1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 30px 100px;
+}
+.bg div{
+    width: 40%;
+    padding: 40px;
+    font-size: 20px;
+    color: white;
+}
+.bg p{
+    padding: 30px;
+}
+.bg h1{
+    padding: 30px;
+    font-size: 50px;
+}
+button{
+    padding: 10px;
+    margin-left: 30px;
+    
+}
+.about{
+    width: 80%;
+    display: flex;
+    margin: auto;
+    padding: 30px;
+
+}
+.about div{
+    width: 50%;
+}
+.about img{
+    width: 100%;
+}
+
+.special{
+    padding:50px 20px;
+    text-align: left;
+    margin-left: 50px;
+}
+.special p{
+    padding: 20px 0px;
+    line-height: 30px;
+  
+}
+.special h1{
+    font-size: 40px;
+}
+.special button{
+    margin: 0;
+    background-color: rgb(150, 29, 49);
+    color: white;
+}
+.services{
+    width: 100%;
+}
+.services p{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 900;
+}
+.it{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    display: flex;
+    padding: 30px;
+    
+}
+.it div{
+    width: 33%;
+    background-color: white;
+    padding: 50px;
+    margin: 10px;
+    border: 1px solid rgba(110, 107, 107, 0.542);
+}
+.it div p{
+    font-size: 16px;
+    font-weight: 300;
+}
+.it div button{
+    margin-top: 20px;
+}
+.content{
+    width: 100%;
+    display: flex;
+    padding-top: 80px;
+}
+.picture{
+    width: 50%;
+    text-align: center;
+}
+.info{
+    width: 50%;
+    text-align: left;
+    padding:  0px 30px;
+}
+.picture img{
+    width: 70%;
+}
+.info h1{
+    font-size: 40px;
+}
+.info p{
+    font-size: 18px;
+    line-height: 40px;
+}
+.numbers{
+    width: 100%;
+    padding-top: 0px;
+}
+.items{
+    width: 80%;
+    margin: auto;
+    background-color: rgba(28, 3, 60, 0.79);
+    color: white;
+    display: flex;
+    height: 200px;
+    justify-content: center;
+    align-items: center;
+}
+.items div{
+    width: 25%;
+    text-align: center;
+}
+.items div h1{
+    font-size: 40px;
+
+}
+.color{
+    width: 100%;
+    height: 150px;
+    background-color: rgb(211, 208, 208);
+}
+.hexa{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    padding: 100px 0px;
+    margin-bottom: 50px;
+    
+}
+.hexa1{
+    width: 50%;
+    text-align: left;
+    margin-right: 50px;
+ 
+
+}
+.hexa h1{
+    font-size:40px;
+    line-height: 50px;
+}
+.hexa p{
+    font-size: 20px;
+    line-height: 40px;
+}
+.hexa2{
+    width: 50%;
+}
+.hexa2 img{
+    width: 100%;
+}
+.sub{
+    width: 80%;
+    margin: auto;
+    text-align: left;
+}
+.sub h1{
+    font-size: 40px;
+}
+.sub p{
+    font-size: 18px;
+    line-height: 35px;
+    padding-top: 40px;
+}
+.companies{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+  
+}
+.companies div{
+    width: 16%;
+    margin: auto;
+
+    
+}
+.companies img{
+    width: 40%;
+   
+}
+footer{
+    width: 100%;
+    background-color: rgb(8, 8, 56);
+    color: white;
+    margin-top: 50px;
+    text-align: center;
+    padding-bottom: 100px;
+    line-height: 40px;
+
+}
+.foot{
+    width: 80%;
+    height: 300px;
+    margin: auto;
+    display: flex;
+    padding: 40px;
+}
+.foot div{
+    width: 33%;
+    padding: 50px;
+    text-align: center;
+}
+i{
+    font-size: 32px;
+}
